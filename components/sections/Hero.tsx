@@ -38,10 +38,10 @@ export function Hero() {
                     className="relative w-[350px] md:w-[500px] h-[500px] md:h-[700px]"
                 >
                     <Image
-                        src="/assets/hero-person.png"
+                        src="/assets/hero-person-transparent.png"
                         alt="UI/UX Designer"
                         fill
-                        className="object-contain object-bottom mix-blend-multiply"
+                        className="object-contain object-bottom"
                         priority
                     />
                 </motion.div>
