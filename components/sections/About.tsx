@@ -20,7 +20,7 @@ export function About() {
                         >
                             <div className="text-sm font-bold tracking-widest uppercase text-white/40 mb-2">Hello</div>
                             <h2 className="text-5xl font-bold font-oswald uppercase tracking-wide mb-6">
-                                I'm Anthony
+                                I'm Rodip Duwal
                             </h2>
                             <p className="text-gray-400 leading-relaxed max-w-md">
                                 Passionate UI/UX designer dedicated to crafting exceptional digital
@@ -74,7 +74,7 @@ export function About() {
 
                             <Image
                                 src="/assets/about-person.png"
-                                alt="Anthony About"
+                                alt="Rodip Duwal About"
                                 fill
                                 className="object-cover rounded-sm grayscale hover:grayscale-0 transition-all duration-500"
                             />

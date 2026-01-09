@@ -13,8 +13,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Anthony | UI/UX Designer",
-  description: "Portfolio of Anthony, a passionate UI/UX Designer.",
+  title: "Rodip Duwal | UI/UX Designer",
+  description: "Portfolio of Rodip Duwal, a passionate UI/UX Designer.",
 };
 
 export default function RootLayout({
